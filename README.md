@@ -11,8 +11,8 @@ I'm a **Senior DevOps & Platform Engineer** with 30+ years of experience. Buildi
 * **Next-Gen Cloud Architecture**: Evaluating **AWS Aurora DSQL** (Distributed SQL) for unpredictable global workloads and blue-green database paved paths.
 * **Edge & Zero Trust Security**: Modernizing edge connectivity and access patterns—implementing Device Posture validation and autoscaling single-instance resilient designs to increase platform reliability.
 
-#### 🀄 Personal Projects
-* 📱 **[Daily Mahjong Monitor](https://github.com/CreativeMaladjustment/daily-mahjong-mcr)**: Python (FastAPI) serverless app on Vercel with Supabase PostgreSQL and Vercel Cron. Delivers daily native Web Push notifications for authentic Mahjong Competition Rules (MCR).
+#### 📱 Personal Projects
+* 🀄 **[Daily Mahjong Monitor](https://github.com/CreativeMaladjustment/daily-mahjong-mcr)**: Python (FastAPI) serverless app on Vercel with Supabase PostgreSQL and Vercel Cron. Delivers daily native Web Push notifications for authentic Mahjong Competition Rules (MCR).
 * 🎲 **[Creative Maladjustment Codex](https://github.com/CreativeMaladjustment/mcc-character-sheet)**: Mobile-first MCC character sheet tracker built with Supabase Realtime (WebSockets), Google OAuth, and custom Postgres RLS policies.
 
 ---
