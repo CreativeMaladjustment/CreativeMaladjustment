@@ -1,3 +1,6 @@
+<div align="center">
+
+<pre style="background-color: #0c0d10; color: #33ff66; padding: 15px; border-radius: 6px; font-family: 'Courier New', Courier, monospace; text-align: left; line-height: 1.2; overflow-x: auto;">
 ================================================================================
   \  |  /      [!] WELCOME TO THE WILD BLUE YONDER BBS [!]      \  |  /
 --- + ---        [ Node 1 ] - (303) 555-1994 - 14.4k V.32bis      --- + ---
@@ -12,25 +15,25 @@
  [1] SYSTEM NEWS & CURRENT PROJECTS
 --------------------------------------------------------------------------------
 
- < WORK / ENTERPRISE PLATFORM & SRE >
+ &lt; WORK / ENTERPRISE PLATFORM &amp; SRE &gt;
   * Agentic AI SRE Skills ... Authoring domain-specific Claude Code skills 
                               (`agents.md`) for automated IAM key rotations,
                               EKS node checks, and Datadog monitors.
   * Next-Gen Cloud Arch ..... Evaluating AWS Aurora DSQL (Distributed SQL) for 
                               unpredictable global workloads.
-  * Edge & Zero Trust ....... Modernizing edge access via Device Posture 
-                              validation & resilient single-instance design.
+  * Edge &amp; Zero Trust ....... Modernizing edge access via Device Posture 
+                              validation &amp; resilient single-instance design.
 
- < PERSONAL PROJECTS / SIDE BOARDS >
+ &lt; PERSONAL PROJECTS / SIDE BOARDS &gt;
   * Daily Mahjong Monitor ... Python (FastAPI) serverless app on Vercel + 
                               Supabase Postgres. Web Push for MCR rules.
-                              URL: https://github.com/CreativeMaladjustment/daily-mahjong-mcr
+                              URL: <a style="color: #66ffff;" href="https://github.com/CreativeMaladjustment/daily-mahjong-mcr">github.com/CreativeMaladjustment/daily-mahjong-mcr</a>
   * MCC Character Sheet ..... Mobile-first tracker w/ Supabase Realtime 
-                              WebSockets, Google OAuth, & Postgres RLS.
-                              URL: https://github.com/CreativeMaladjustment/mcc-character-sheet
+                              WebSockets, Google OAuth, &amp; Postgres RLS.
+                              URL: <a style="color: #66ffff;" href="https://github.com/CreativeMaladjustment/mcc-character-sheet">github.com/CreativeMaladjustment/mcc-character-sheet</a>
 
 --------------------------------------------------------------------------------
- [2] SYSOP THOUGHTS & LEARNING LOG
+ [2] SYSOP THOUGHTS &amp; LEARNING LOG
 --------------------------------------------------------------------------------
 
   [1994-LOG] Agentic Developer Operations:
@@ -42,7 +45,7 @@
             software through modern, respectful digital tools.
 
 --------------------------------------------------------------------------------
- [3] SYSTEM CAPABILITIES & TECH STACK
+ [3] SYSTEM CAPABILITIES &amp; TECH STACK
 --------------------------------------------------------------------------------
 
  [CLOUD/INFRA] .. AWS, Transit Gateway, AWS Backup, Cloudflare ZTNA/WAF,
@@ -51,19 +54,22 @@
  [FULL-STACK] ... Python, Supabase, Vercel, GitHub Actions CI/CD
  [OBSERVABILITY]. Datadog, Splunk, CloudWatch, Agentic AI Tooling (`agents.md`)
 
- < TECHNICAL AGILITY >
-  * 30+ years engineering across legacy & modern stacks (C/Perl/PHP to Python/TS).
+ &lt; TECHNICAL AGILITY &gt;
+  * 30+ years engineering across legacy &amp; modern stacks (C/Perl/PHP to Python/TS).
   * Rapid adoption of cutting-edge tech (AWS Bedrock, Aurora DSQL, LLM workflows).
-  * Strong focus on core fundamentals: networking, distributed systems, & security.
+  * Strong focus on core fundamentals: networking, distributed systems, &amp; security.
 
 --------------------------------------------------------------------------------
- [4] USER COMMANDS / CONTACT & MESSAGES
+ [4] USER COMMANDS / CONTACT &amp; MESSAGES
 --------------------------------------------------------------------------------
 
- [E]mail Sysop .... 27828514+CreativeMaladjustment@users.noreply.github.com
- [L]inkedIn ....... https://www.linkedin.com/in/creativemaladjustment/
+ [E]mail Sysop .... <a style="color: #66ffff;" href="mailto:27828514+CreativeMaladjustment@users.noreply.github.com">27828514+CreativeMaladjustment@users.noreply.github.com</a>
+ [L]inkedIn ....... <a style="color: #66ffff;" href="https://www.linkedin.com/in/creativemaladjustment/">linkedin.com/in/creativemaladjustment</a>
  [L]ocation ....... Denver, CO Area
 
 ================================================================================
   NO CARRIER  ||  [G]oodbye  ||  Press [SPACE] to continue...
 ================================================================================
+</pre>
+
+</div>
