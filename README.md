@@ -1,6 +1,6 @@
 # Hi there, I'm Jason Davis he/him 👋
 
-I'm a **Senior DevOps & Platform Engineer** with 20+ years of experience building reliable, cloud-native systems, automated CI/CD pipelines, and high-velocity developer platforms. Currently bridging platform operations with agentic AI workflows and modern full-stack serverless builds.
+I'm a **Senior DevOps & Platform Engineer** with 30+ years of experience. Building reliable, cloud-native systems, automated CI/CD pipelines, and high-velocity developer platforms. Currently bridging platform operations with agentic AI workflows and modern full-stack serverless builds.
 
 ---
 
