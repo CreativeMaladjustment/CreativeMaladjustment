@@ -8,7 +8,7 @@
 ================================================================================
 
  [SYSOP]: Jason Davis (he/him)
- [TITLE]: Senior DevOps &amp; Platform Engineer (20+ Years On-Line)
+ [TITLE]: Senior DevOps &amp; Platform Engineer (30+ Years On-Line)
  [STATUS]: ONLINE / Bridging Platform Ops with Agentic AI &amp; Serverless
 
 --------------------------------------------------------------------------------
@@ -55,7 +55,7 @@
  [OBSERVABILITY]. Datadog, Splunk, CloudWatch, Agentic AI Tooling (`agents.md`)
 
  &lt; TECHNICAL AGILITY &gt;
-  * 30+ years engineering across legacy &amp; modern stacks (C/Perl/PHP to Python/TS).
+  * 30+ years engineering across legacy &amp; modern stacks (Perl/PHP to Python/TS).
   * Rapid adoption of cutting-edge tech (AWS Bedrock, Aurora DSQL, LLM workflows).
   * Strong focus on core fundamentals: networking, distributed systems, &amp; security.
 
