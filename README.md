@@ -1,13 +1,13 @@
 # Hi there, I'm Jason Davis he/him 👋
 
-I'm a **Senior DevOps & Platform Engineer** with 30+ years of experience. Building reliable, cloud-native systems, automated CI/CD pipelines, and high-velocity developer platforms. Currently bridging platform operations with agentic AI workflows and modern full-stack serverless builds.
+I'm a **Senior DevOps & Platform Engineer** with 30+ years of experience. Building reliable, cloud-native systems, automated CI/CD pipelines, and high-velocity developer platforms. Currently bridging platform operations with AI workflows and modern full-stack serverless builds.
 
 ---
 
 ### 🚧 What I'm Working On Right Now
 
 #### DevOps - Enterprise Platform & SRE (Work)
-* **Agentic AI SRE Skills**: Authoring domain-specific Claude Code skills (`agents.md`) to automate IAM key rotations, EKS node checks, and Datadog monitor creation.
+* **LLM/AI SRE Skills**: Authoring domain-specific Claude Code skills (`agents.md`) to automate IAM key rotations, EKS node checks, and Datadog monitor creation.
 * **Next-Gen Cloud Architecture**: Evaluating **AWS Aurora DSQL** (Distributed SQL) for unpredictable global workloads and blue-green database paved paths.
 * **Edge & Zero Trust Security**: Modernizing edge connectivity and access patterns—implementing Device Posture validation and autoscaling single-instance resilient designs to increase platform reliability.
 
