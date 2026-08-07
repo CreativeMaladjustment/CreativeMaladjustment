@@ -6,10 +6,10 @@ I'm a **Senior DevOps & Platform Engineer** with 30+ years of experience. Buildi
 
 ### 🚧 What I'm Working On Right Now
 
-#### 💼 DevOps - Enterprise Platform & SRE (Work)
-* 🤖 **Agentic AI SRE Skills**: Authoring domain-specific Claude Code skills (`agents.md`) to automate IAM key rotations, EKS node checks, and Datadog monitor creation.
-* ⚡ **Next-Gen Cloud Architecture**: Evaluating **AWS Aurora DSQL** (Distributed SQL) for unpredictable global workloads and blue-green database paved paths.
-* 🔐 **Edge & Zero Trust Security**: Modernizing edge connectivity and access patterns—implementing Device Posture validation and autoscaling single-instance resilient designs to increase platform reliability.
+#### DevOps - Enterprise Platform & SRE (Work)
+* **Agentic AI SRE Skills**: Authoring domain-specific Claude Code skills (`agents.md`) to automate IAM key rotations, EKS node checks, and Datadog monitor creation.
+* **Next-Gen Cloud Architecture**: Evaluating **AWS Aurora DSQL** (Distributed SQL) for unpredictable global workloads and blue-green database paved paths.
+* **Edge & Zero Trust Security**: Modernizing edge connectivity and access patterns—implementing Device Posture validation and autoscaling single-instance resilient designs to increase platform reliability.
 
 #### 🀄 Personal Projects
 * 📱 **[Daily Mahjong Monitor](https://github.com/CreativeMaladjustment/daily-mahjong-mcr)**: Python (FastAPI) serverless app on Vercel with Supabase PostgreSQL and Vercel Cron. Delivers daily native Web Push notifications for authentic Mahjong Competition Rules (MCR).
