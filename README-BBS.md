@@ -1,7 +1,7 @@
 <div align="center">
 
-<pre style="display: inline-block; text-align: left; background-color: #0c0d10; color: #33ff66; padding: 20px; border-radius: 6px; font-family: 'Courier New', Courier, monospace; line-height: 1.25; overflow-x: auto; max-width: 100%;">
-================================================================================
+<pre>
+<p align="left">================================================================================
   \  |  /      [!] WELCOME TO THE WILD BLUE YONDER BBS [!]      \  |  /
 --- + ---        [ Node 1 ] - (303) 555-1994 - 14.4k V.32bis      --- + ---
   /  |  \                   DENVER, COLORADO, USA               /  |  \
@@ -27,10 +27,10 @@
  &lt; PERSONAL PROJECTS / SIDE BOARDS &gt;
   * Daily Mahjong Monitor ... Python (FastAPI) serverless app on Vercel + 
                               Supabase Postgres. Web Push for MCR rules.
-                              URL: <a style="color: #66ffff;" href="https://github.com/CreativeMaladjustment/daily-mahjong-mcr">github.com/CreativeMaladjustment/daily-mahjong-mcr</a>
+                              URL: <a href="https://github.com/CreativeMaladjustment/daily-mahjong-mcr">github.com/CreativeMaladjustment/daily-mahjong-mcr</a>
   * MCC Character Sheet ..... Mobile-first tracker w/ Supabase Realtime 
                               WebSockets, Google OAuth, &amp; Postgres RLS.
-                              URL: <a style="color: #66ffff;" href="https://github.com/CreativeMaladjustment/mcc-character-sheet">github.com/CreativeMaladjustment/mcc-character-sheet</a>
+                              URL: <a href="https://github.com/CreativeMaladjustment/mcc-character-sheet">github.com/CreativeMaladjustment/mcc-character-sheet</a>
 
 --------------------------------------------------------------------------------
  [2] SYSOP THOUGHTS &amp; LEARNING LOG
@@ -63,13 +63,13 @@
  [4] USER COMMANDS / CONTACT &amp; MESSAGES
 --------------------------------------------------------------------------------
 
- [E]mail Sysop .... <a style="color: #66ffff;" href="mailto:27828514+CreativeMaladjustment@users.noreply.github.com">27828514+CreativeMaladjustment@users.noreply.github.com</a>
- [L]inkedIn ....... <a style="color: #66ffff;" href="https://www.linkedin.com/in/creativemaladjustment/">linkedin.com/in/creativemaladjustment</a>
+ [E]mail Sysop .... <a href="mailto:27828514+CreativeMaladjustment@users.noreply.github.com">27828514+CreativeMaladjustment@users.noreply.github.com</a>
+ [L]inkedIn ....... <a href="https://www.linkedin.com/in/creativemaladjustment/">linkedin.com/in/creativemaladjustment</a>
  [L]ocation ....... Denver, CO Area
 
 ================================================================================
   NO CARRIER  ||  [G]oodbye  ||  Press [SPACE] to continue...
-================================================================================
+================================================================================</p>
 </pre>
 
 </div>
