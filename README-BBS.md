@@ -1,6 +1,6 @@
 <div align="center">
 
-<pre style="background-color: #0c0d10; color: #33ff66; padding: 15px; border-radius: 6px; font-family: 'Courier New', Courier, monospace; text-align: left; line-height: 1.2; overflow-x: auto;">
+<pre style="display: inline-block; text-align: left; background-color: #0c0d10; color: #33ff66; padding: 20px; border-radius: 6px; font-family: 'Courier New', Courier, monospace; line-height: 1.25; overflow-x: auto; max-width: 100%;">
 ================================================================================
   \  |  /      [!] WELCOME TO THE WILD BLUE YONDER BBS [!]      \  |  /
 --- + ---        [ Node 1 ] - (303) 555-1994 - 14.4k V.32bis      --- + ---
@@ -8,11 +8,11 @@
 ================================================================================
 
  [SYSOP]: Jason Davis (he/him)
- [TITLE]: Senior DevOps & Platform Engineer (20+ Years On-Line)
- [STATUS]: ONLINE / Bridging Platform Ops with Agentic AI & Serverless
+ [TITLE]: Senior DevOps &amp; Platform Engineer (20+ Years On-Line)
+ [STATUS]: ONLINE / Bridging Platform Ops with Agentic AI &amp; Serverless
 
 --------------------------------------------------------------------------------
- [1] SYSTEM NEWS & CURRENT PROJECTS
+ [1] SYSTEM NEWS &amp; CURRENT PROJECTS
 --------------------------------------------------------------------------------
 
  &lt; WORK / ENTERPRISE PLATFORM &amp; SRE &gt;
