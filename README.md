@@ -43,3 +43,8 @@ I'm a **Senior DevOps & Platform Engineer** with 30+ years of experience. Buildi
 * 📧 **Email**: [27828514+CreativeMaladjustment@users.noreply.github.com](mailto:27828514+CreativeMaladjustment@users.noreply.github.com)
 * 💼 **LinkedIn**: [linkedin.com/in/creativemaladjustment](https://www.linkedin.com/in/creativemaladjustment/)
 * 📍 **Location**: Denver CO Area
+
+---
+
+### 📝 LinkedIn Posts
+* [Why the Year is 02026 (The Case for 10,000-Year Thinking)](linkedin/020260809-long-now.md)
