@@ -1,6 +1,6 @@
 # A How-I-Work Framework
 
-**Date:** 02026-08-27  
+**Date:** 02026-07-27  
 **Original Post:** [LinkedIn](https://www.linkedin.com/posts/creativemaladjustment_how-i-work-framework-activity-7485344514442797057-KfS-)
 
 I asked my wife (Emily Webster, M.S.) what I should work on. I wanted a real challenge, and she knows me well enough to give one.
@@ -22,3 +22,7 @@ Vulnerable part? Writing down a "How I Work" framework is me making it visible t
 Do you have a framework for turning information into how you actually act? I'd love to know if this is useful to others.
 
 #CareerMobility #Opportunity #LearningAndDevelopment
+
+---
+
+📄 **[How I Work Framework (PDF)](how-i-work-framework.pdf)**

@@ -47,5 +47,5 @@ I'm a **Senior DevOps & Platform Engineer** with 30+ years of experience. Buildi
 ---
 
 ### 📝 LinkedIn Posts
-* [A How-I-Work Framework](linkedin/020260827-how-i-work-framework.md)
+* [A How-I-Work Framework](linkedin/020260727-how-i-work-framework.md)
 * [Why the Year is 02026 (The Case for 10,000-Year Thinking)](linkedin/020260809-long-now.md)
