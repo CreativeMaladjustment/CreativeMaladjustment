@@ -12,7 +12,7 @@
 #### 📱 Personal Projects
 * 🀄 **[Daily Mahjong Monitor](https://github.com/CreativeMaladjustment/daily-mahjong-mcr)**: Python (FastAPI) serverless app on Vercel with Supabase PostgreSQL and Vercel Cron. Delivers daily native Web Push notifications for authentic Mahjong Competition Rules (MCR).
 * 🎲 **[Creative Maladjustment Codex](https://github.com/CreativeMaladjustment/mcc-character-sheet)**: Mobile-first MCC character sheet tracker built with Supabase Realtime (WebSockets), Google OAuth, and custom Postgres RLS policies.
-* 📜 **[Punjab Data Project](https://github.com/CreativeMaladjustment/Punjab-Data-Project)**: Computational sociological analysis of British Punjab through the imperial print register, 1867–1942.
+* 📜 **[Punjab Data Project](https://github.com/CreativeMaladjustment/Punjab-Data-Project)**: Computational sociological analysis of British Punjab through imperial print registers (1867–1942), leveraging free-tier cloud services (Backblaze B2, Supabase Postgres, Vercel) and scheduled GitHub Actions workflows for pipeline processing and local vision LLM extraction.
 * ⚽ **[Summit Basecamp](https://github.com/CreativeMaladjustment/summit-basecamp)**: Collaborative season ticket allocation, expense splitting ledger, and daily NWSL player flashcards built on Cloudflare stack (Pages, Python Workers, D1, KV).
 
 ---
