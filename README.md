@@ -40,7 +40,7 @@
   ---
 
 ### 📫 Connect With Me
-* 📧 **Email**: [27828514+CreativeMaladjustment@users.noreply.github.com](mailto:27828514+CreativeMaladjustment@users.noreply.github.com)
+<!--* 📧 **Email**: [27828514+CreativeMaladjustment@users.noreply.github.com](mailto:27828514+CreativeMaladjustment@users.noreply.github.com) -->
 * 💼 **LinkedIn**: [linkedin.com/in/creativemaladjustment](https://www.linkedin.com/in/creativemaladjustment/)
 * 📍 **Location**: Denver CO Area
 
