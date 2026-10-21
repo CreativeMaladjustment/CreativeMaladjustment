@@ -50,3 +50,4 @@
 * [A How-I-Work Framework](linkedin/020260727-how-i-work-framework.md)
 * [Why the Year is 02026 (The Case for 10,000-Year Thinking)](linkedin/020260809-long-now.md)
 * [Why Maintenance is the Ultimate Value Add](linkedin/020260921-why-maintenance-is-the-ultimate-value-add.md)
+* [Why I Treat My Notes Like a Medical Chart (and Why We Should Reread Our Notes)](linkedin/020261020-why-i-treat-my-notes-like-a-medical-chart.md)
